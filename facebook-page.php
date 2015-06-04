@@ -205,7 +205,7 @@ function as_facebook_pg_options_page()
     $help_icon = '<img border="0" src="' . $icon_url . '/wp-content/plugins/facebook-page/images/help.gif" /> ';
     $new_icon = '<img border="0" src="' . $icon_url . '/wp-content/plugins/facebook-page/images/new.gif" /> ';
 
-    $fb_recco = '<img border="0" id="east" value="Tip" title="Leave Facebook ID field blank to disable Recommendatiaon Bar on your Blog." src="' . $icon_url . '/wp-content/plugins/facebook-page/images/tip.png" /> ';
+    $fb_recco = '<img border="0" id="east" value="Tip" title="Leave Facebook AppID field blank to disable Recommendatiaon Bar on your Blog." src="' . $icon_url . '/wp-content/plugins/facebook-page/images/tip.png" /> ';
 
     $fb_pagename = '<img border="0" id="east1" value="Tip" title="Facebook Page Name is not the title of your page. <br>It is the URL and you only include the portion that comes after <br>the http://www.facebook.com/ part of the URL." src="' . $icon_url . '/wp-content/plugins/facebook-page/images/tip.png" /> ';
 
